@@ -1,0 +1,2 @@
+# No third-party dependencies. Uses only the Python standard library
+# (tkinter, smtplib, email, secrets). Requires Python 3.8+.
